@@ -1,7 +1,9 @@
 {
-  "name": "@draft-js-plugins/linkify",
-  "version": "4.2.2",
-  "sideEffects": ["*.css"],
+  "name": "@by/draft-js-plugins-linkify",
+  "version": "4.2.2-by.1",
+  "sideEffects": [
+    "*.css"
+  ],
   "description": "Linkify Plugin for DraftJS",
   "author": {
     "name": "Nik Graf",
@@ -15,7 +17,9 @@
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
   "types": "./lib/index.d.ts",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "keywords": [
     "editor",
     "wysiwyg",
