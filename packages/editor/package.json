@@ -1,6 +1,6 @@
 {
-  "name": "@draft-js-plugins/editor",
-  "version": "4.1.4",
+  "name": "@by/draft-js-plugins-editor",
+  "version": "4.1.4-by.1",
   "sideEffects": false,
   "description": "Editor for DraftJS Plugins",
   "author": {
@@ -15,7 +15,9 @@
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
   "types": "./lib/index.d.ts",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "keywords": [
     "editor",
     "wysiwyg",
