@@ -1,5 +1,5 @@
 {
-  "name": "@by/draft-js-plugins-linkify",
+  "name": "@facundo-tolosa-appspace/draft-js-plugins-linkify",
   "version": "4.2.2-by.1",
   "sideEffects": [
     "*.css"

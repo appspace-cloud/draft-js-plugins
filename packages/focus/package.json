@@ -1,5 +1,5 @@
 {
-  "name": "@by/draft-js-plugins-focus",
+  "name": "@facundo-tolosa-appspace/draft-js-plugins-focus",
   "version": "4.1.5-by.1",
   "sideEffects": [
     "*.css"
