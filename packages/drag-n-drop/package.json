@@ -1,6 +1,6 @@
 {
   "name": "@facundo-tolosa-appspace/draft-js-plugins-drag-n-drop",
-  "version": "4.2.3-by.1",
+  "version": "4.2.3-by.2",
   "sideEffects": [
     "*.css"
   ],
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/draft-js-plugins/draft-js-plugins.git"
+    "url": "https://github.com/appspace-cloud/draft-js-plugins.git"
   },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",

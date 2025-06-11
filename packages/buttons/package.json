@@ -1,7 +1,9 @@
 {
-  "name": "@draft-js-plugins/buttons",
-  "version": "4.3.3",
-  "sideEffects": ["*.css"],
+  "name": "@facundo-tolosa-appspace/draft-js-plugins-buttons",
+  "version": "4.3.3-by.2",
+  "sideEffects": [
+    "*.css"
+  ],
   "description": "Buttons for DraftJS",
   "author": {
     "name": "Nik Graf",
@@ -9,12 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/draft-js-plugins/draft-js-plugins.git"
+    "url": "https://github.com/appspace-cloud/draft-js-plugins.git"
   },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "keywords": [
     "editor",
     "wysiwyg",

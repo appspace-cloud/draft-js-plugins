@@ -11,6 +11,8 @@ import {
 import { InlineToolbarPluginStore } from '../..';
 import { InlineToolbarPluginTheme } from '../../theme';
 
+// FIXED FILE
+
 export interface ToolbarChildrenProps {
   theme: DraftJsButtonTheme;
   getEditorState: () => EditorState;
