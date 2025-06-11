@@ -1,5 +1,5 @@
 {
-  "name": "@by/draft-js-plugins-drag-n-drop",
+  "name": "@facundo-tolosa-appspace/draft-js-plugins-drag-n-drop",
   "version": "4.2.3-by.1",
   "sideEffects": [
     "*.css"
